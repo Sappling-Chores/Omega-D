@@ -17,7 +17,6 @@
 * It is Gasket mount for long typing sessons.
 * Each key has its own sk6812mini e led. 
 * It has a rotary encoder whose switch is connected to switch matrix.
-* It has leds around rotary encoder giving a cool look.
 * It has multiple modes including normal 84 key and macros layers.
 * It has a passive buzzer which gives different notes on different macros.
 
@@ -27,11 +26,10 @@ I wanted a mechanical keyboard for my coding for a long time but never got any c
 
 ## Navigation
 
-* [Firmware](./Firmware/)
-* [Production](./Production/)
 * [Schematics](#schematics)
 * [PCB](#pcb)
 * [Cad](#cad)
+* [Firmware](#firmware)
 * [BOM](#bom)
 * [License](#licence)
 
@@ -62,6 +60,49 @@ I wanted a mechanical keyboard for my coding for a long time but never got any c
 
 ## Cad
 
+![alt text](Assets/Renders/Render2.png)
+
+Top view 
+
+![alt text](<Assets/Top View.png>)
+
+Side view 
+![alt text](Assets/Side_View.png)
+
+Top
+![alt text](Assets/Top.png)
+
+Bottom
+![alt text](Assets/Bottom.png)
+
+Plate
+![alt text](Assets/Plate.png)
+
+Feet + Case
+![alt text](Assets/Feet+Case.png)
+
+
+## Firmware: 
+
+[code](./Firmware/)
+
+This project uses [qmk_Firmware](https://qmk.fm/guide) to setup and flash the code.
+
+Setup :
+
+`qmk setup`
+
+Compile : 
+
+`qmk compile -kb <keyboard> -km <keymap>`
+
+Flash :
+
+`qmk flash -kb <keyboard> -km <keymap>`
+
+
+
+
 ## BOM
 
  
@@ -80,6 +121,7 @@ I wanted a mechanical keyboard for my coding for a long time but never got any c
 | Shipping (meckeys.com) | — | ₹100 | $1.08 | — |
 | Shipping (robu.in) | — | ₹49 | $0.53 | — |
 | **Total** | | **₹9,511** | **$102.98** | |
+
 
 ## Licence
 
@@ -109,3 +151,29 @@ No warranties are given. For more details, see the [full license](https://creati
 ## Commercial Use
 
 If you want to use this for Commercial purpose then [Let's chat](#lets-chat).
+
+-------------------------------------------------------
+## Lets-Chat
+
+
+Email : [itsmohammadsarfaraz@gmail.com](mailto:itsmohammadsarfaraz@email.com)  
+
+Instagram : [@ayysarfaraz](https://www.instagram.com/ayysarfaraz/)
+
+-------------------------------------------------------
+
+## App and tools used
+
+* [kicad](https://www.kicad.org/)  for pcb designing.  
+* [Fusion 360](https://www.autodesk.com/in/products/fusion-360) for cad.  
+* [Vs code](https://code.visualstudio.com/) to write the code.  
+* [qmk firmware](https://qmk.fm/guide) firmware for keyboard.  
+* [qmk msys](https://msys.qmk.fm/) to compile and flash the code.  
+
+## Huge thanks to:
+
+[hackclub](https://slack.hackclub.com/)
+
+ and my mum and dad
+
+Made with love by Mohammad Sarfaraz. 
