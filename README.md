@@ -51,12 +51,11 @@ I wanted a mechanical keyboard for my coding for a long time but never got any c
 
 ## PCB
 
-![alt text](Assets/PCB.png)
-
-![alt text](Assets/PCB-3D-Front.png)
-
-![alt text](Assets/PCB-3D-Back.png)
-
+![alt text](Assets/PCB_No_Copper_Layer.png)
+![alt text](Assets/PCB_Front.png)
+![alt text](Assets/PCB_Back.png)
+![alt text](Assets/PCB_3D_Front.png)
+![alt text](Assets/PCB_3D_Back.png)
 
 ## Cad
 
@@ -64,7 +63,7 @@ I wanted a mechanical keyboard for my coding for a long time but never got any c
 
 Top view 
 
-![alt text](<Assets/Top View.png>)
+![alt text](Assets/Top_View.png)
 
 Side view 
 ![alt text](Assets/Side_View.png)
@@ -76,7 +75,7 @@ Bottom
 ![alt text](Assets/Bottom.png)
 
 Plate
-![alt text](Assets/Plate.png)
+![Assets/Plate.png](Assets/Plate.png)
 
 Feet + Case
 ![alt text](Assets/Feet+Case.png)
@@ -105,7 +104,8 @@ Flash :
 
 ## BOM
 
- 
+# Bill of Materials
+
 | Part | Quantity | Price (INR) | Price (USD) | Link |
 |------|----------|-------------|-------------|------|
 | Raspberry Pi Pico | 1 | ₹384 | $4.16 | [robu.in](https://robu.in/product/raspberry-pi-pico/) |
@@ -118,9 +118,18 @@ Flash :
 | Hotswap Socket | 90 | ₹351 | $3.80 | [lcsc.com](https://www.lcsc.com/product-detail/C49352235.html?s_z=n_CPG151101S11) |
 | 1N4148 Diode | 100 | ₹86 | $0.93 | [lcsc.com](https://www.lcsc.com/product-detail/C402212.html) |
 | PCB | 1 | ₹3,917 | $42.43 | — |
+| M2.5 Hex Nuts | 5 | ₹10 | $0.11 | [quartzcomponents.com](https://quartzcomponents.com/products/pair-of-m2-hex-nuts?variant=33194716889223) |
+| M2.5-6mm Bolt | 3 | ₹24 | $0.26 | [quartzcomponents.com](https://quartzcomponents.com/products/m2-5-6mm-bolt-mounting-screw-pack-of-4?variant=44082914459882) |
+| M3-15mm Bolt with Phillips Head | 3 | ₹24 | $0.26 | [quartzcomponents.com](https://quartzcomponents.com/products/phillips-head-m3-15mm-bolt-mounting-screw-for-pcb-pack-of-4?variant=42673979490538) |
+| M3x4x4.2mm Brass Heat Set | 1 | ₹42 | $0.45 | [quartzcomponents.com](https://quartzcomponents.com/products/m3-x-4mm-brass-heat-set-threaded-round-insert-nut-10-pcs?variant=45107588169962) |
+| M3x10x4.2mm Brass Heat Set | 1 | ₹68 | $0.74 | [quartzcomponents.com](https://quartzcomponents.com/products/m3-x-10mm-brass-heat-set-threaded-round-insert-nut-10-pcs?variant=45107619528938) |
+| Gasket Foam Tape | 1 | ₹170 | $1.84 | [flipkart.com](https://www.flipkart.com/gsk-cut-single-sided-gasket-foam-tape-black-25-mm-width-x-3-thickness-9-meter-length-m-tape/p/itmb8ceb849a695b) |
 | Shipping (meckeys.com) | — | ₹100 | $1.08 | — |
 | Shipping (robu.in) | — | ₹49 | $0.53 | — |
-| **Total** | | **₹9,511** | **$102.98** | |
+| Shipping (quartzcomponents.com) | — | ₹50 | $0.54 | — |
+| **Total** | | **₹9,899** | **$107.18** | |
+
+
 
 
 ## Licence
