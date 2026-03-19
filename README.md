@@ -35,7 +35,7 @@ I wanted a mechanical keyboard for my coding for a long time but never got any c
 
 ## Schematics
 
-![alt text](Assets/Schematics.png)
+![alt text](Assets/Schematics.svg)
 
 #### Key matix
 
