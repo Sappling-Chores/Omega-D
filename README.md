@@ -54,8 +54,19 @@ I wanted a mechanical keyboard for my coding for a long time but never got any c
 ![alt text](Assets/PCB_No_Copper_Layer.png)
 ![alt text](Assets/PCB_Front.png)
 ![alt text](Assets/PCB_Back.png)
-![alt text](Assets/PCB_3D_Front.png)
-![alt text](Assets/PCB_3D_Back.png)
+![text](Assets/PCB_Layers/Omega-D-B_Cu.svg) 
+![text](Assets/PCB_Layers/Omega-D-B_Mask.svg) 
+![text](Assets/PCB_Layers/Omega-D-B_Paste.svg) 
+![text](Assets/PCB_Layers/Omega-D-B_Silkscreen.svg) 
+![text](Assets/PCB_Layers/Omega-D-Edge_Cuts.svg) 
+![text](Assets/PCB_Layers/Omega-D-F_Cu.svg) 
+![text](Assets/PCB_Layers/Omega-D-F_Mask.svg)
+![text](Assets/PCB_Layers/Omega-D-F_Paste.svg) 
+![text](Assets/PCB_Layers/Omega-D-F_Silkscreen.svg)
+![alt text](Assets/3D_PCB_Front.png)
+![alt text](Assets/3D_PCB_Back.png)
+[text](Assets/PCB_Layers) 
+
 
 ## Cad
 
