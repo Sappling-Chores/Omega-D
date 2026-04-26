@@ -192,8 +192,6 @@ Instagram : [@ayysarfaraz](https://www.instagram.com/ayysarfaraz/)
 
 ## Huge thanks to:
 
-[hackclub](https://slack.hackclub.com/)
-
  and my mum and dad
 
 Made with love by Mohammad Sarfaraz. 
